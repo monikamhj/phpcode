@@ -9,7 +9,7 @@ $hour = date("H");
 
 // Determine time of day greeting
 if ($hour < 12) {
-    $greeting = "Good morning gorgeous diva, RISE N SHINEE";
+    $greeting = "Good morning gorgeous diva , RISE N SHINEE QUEEN";
 } elseif ($hour < 18) {
     $greeting = "Good afternoon";
 } else {
